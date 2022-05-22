@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATxmega384C3"</DEVICE>
+ <WORKING_DIR>C:\Users\yorbe\OneDrive - Universiteit Antwerpen\School\Semester4\4_Computerarchitectuur_en_besturingssystemen_2\Assembly\Opdracht1Ext\Opdracht1Ext\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAC_DFP\1.2.112\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\yorbe\OneDrive - Universiteit Antwerpen\School\Semester4\4_Computerarchitectuur_en_besturingssystemen_2\Assembly\Opdracht1Ext\Opdracht1Ext\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAC_DFP\1.2.112\avrasm\inc\ATxmega384C3def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\yorbe\OneDrive - Universiteit Antwerpen\School\Semester4\4_Computerarchitectuur_en_besturingssystemen_2\Assembly\Opdracht1Ext\Opdracht1Ext\Debug\Opdracht1Ext.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Opdracht1Ext.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Opdracht1Ext.map</FILE>
+  <FILE>Opdracht1Ext.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>C:\Users\yorbe\OneDrive - Universiteit Antwerpen\School\Semester4\4_Computerarchitectuur_en_besturingssystemen_2\Assembly\Opdracht1Ext\Opdracht1Ext\main.asm</FILE><LINE>9</LINE></Init>
+  <Main><FILE>C:\Users\yorbe\OneDrive - Universiteit Antwerpen\School\Semester4\4_Computerarchitectuur_en_besturingssystemen_2\Assembly\Opdracht1Ext\Opdracht1Ext\main.asm</FILE><LINE>23</LINE></Main>
+  <Loop><FILE>C:\Users\yorbe\OneDrive - Universiteit Antwerpen\School\Semester4\4_Computerarchitectuur_en_besturingssystemen_2\Assembly\Opdracht1Ext\Opdracht1Ext\main.asm</FILE><LINE>25</LINE></Loop>
+  <Delay><FILE>C:\Users\yorbe\OneDrive - Universiteit Antwerpen\School\Semester4\4_Computerarchitectuur_en_besturingssystemen_2\Assembly\Opdracht1Ext\Opdracht1Ext\main.asm</FILE><LINE>69</LINE></Delay>
+ </LABELS>
+</ASSEMBLER_INFO>
